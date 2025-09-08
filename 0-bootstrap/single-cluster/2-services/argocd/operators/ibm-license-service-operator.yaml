@@ -38,4 +38,4 @@ spec:
       - name: spec.sourceNamespace
         value: openshift-marketplace
       - name: spec.channel
-        value: v3
+        value: v4.2
